@@ -1,7 +1,7 @@
 ✨ DeepSeek Clone – MERN Stack ✨
 <p align="center">An advanced AI chat & reasoning platform inspired by DeepSeek, built with the MERN stack and modern real-time technologies.</p>
 
-![Demo App](frontend/public/logo.png)
+![Demo App](frontend/public/deepseek-image.png)
 
 
 🚀 Overview
