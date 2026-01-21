@@ -34,32 +34,29 @@ j
 
 📝 Environment Setup
 1. Create a .env file for the backend
+```
 PORT=
 MONGO_URI=""
 JWT_PASSWORD=""
 NODE_ENV=
 OPENAI_API_KEY=
 FRONTEND_URL=
-
-2. Create a .env file for the frontend
+```
+3. Create a .env file for the frontend
 VITE_API_URL= http://localhost:5000
 
 ▶️ Run the Project
 Backend
+```
 cd backend
 npm install
 npm run dev
-
+```
 Frontend
+```
 cd frontend
 npm install
 npm run dev
-
-
-👨‍💻 Author
-Amine Ould Medjeber
-Full-Stack Developer | Node.js • React • MongoDB • Express.js
-📧 [ouldmedjeberamine@gmail.com]
-🌐 [www.linkedin.com/in/amine-medjeber]
+```
 
 
